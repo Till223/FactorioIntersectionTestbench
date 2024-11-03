@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/factoriointersectiontestbench/static/css/main.f855e6bc.css",
-    "main.js": "/factoriointersectiontestbench/static/js/main.157c0cf1.js",
-    "static/js/453.8566eefc.chunk.js": "/factoriointersectiontestbench/static/js/453.8566eefc.chunk.js",
-    "static/media/logo.svg": "/factoriointersectiontestbench/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/factoriointersectiontestbench/index.html",
-    "main.f855e6bc.css.map": "/factoriointersectiontestbench/static/css/main.f855e6bc.css.map",
-    "main.157c0cf1.js.map": "/factoriointersectiontestbench/static/js/main.157c0cf1.js.map",
-    "453.8566eefc.chunk.js.map": "/factoriointersectiontestbench/static/js/453.8566eefc.chunk.js.map"
+    "main.css": "/FactorioIntersectionTestbench/static/css/main.f855e6bc.css",
+    "main.js": "/FactorioIntersectionTestbench/static/js/main.2735ede1.js",
+    "static/js/453.8566eefc.chunk.js": "/FactorioIntersectionTestbench/static/js/453.8566eefc.chunk.js",
+    "static/media/logo.svg": "/FactorioIntersectionTestbench/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FactorioIntersectionTestbench/index.html",
+    "main.f855e6bc.css.map": "/FactorioIntersectionTestbench/static/css/main.f855e6bc.css.map",
+    "main.2735ede1.js.map": "/FactorioIntersectionTestbench/static/js/main.2735ede1.js.map",
+    "453.8566eefc.chunk.js.map": "/FactorioIntersectionTestbench/static/js/453.8566eefc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.157c0cf1.js"
+    "static/js/main.2735ede1.js"
   ]
 }
